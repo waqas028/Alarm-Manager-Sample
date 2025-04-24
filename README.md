@@ -13,6 +13,9 @@ It can be used to:
 
 ---
 
+## Demo
+https://github.com/user-attachments/assets/886156d3-f858-48dc-8bc3-aadcacffbac0
+
 ## Alarm Recevier
 ```kotlin
 class AlarmReceiver : BroadcastReceiver() {
